@@ -1,0 +1,278 @@
+@media(min-width:0px) and (max-width:1399px){
+    .banner-content {
+        padding: 0px 50px;
+    }
+    .dental-agency-image img {
+        width: 75%;
+    }
+}
+
+@media(min-width:0px) and (max-width:1199px){
+    .banner-content {
+        min-height: 50vh;
+        align-items: center;
+        padding: 0px 50px;
+    }
+    .dental-agency-image img {
+        width: 62%;
+    }
+    .follow-us h1 {
+        font-size: 19px;
+}
+
+@media(min-width:0px) and (max-width:991px){
+    .h-d ul li h4 {
+        font-size: 11px;
+    }
+    .h-d ul li p {
+        font-size: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        margin: 0;
+        margin-bottom: 12px;
+    }
+    .appointment a p {
+        font-size: 12px;
+    }
+    .appointment a  i{
+        font: 12px;
+        margin-right: 4px;
+    }
+    .banner-content {
+        min-height: 43vh;
+    }
+    .banner-content h2 {
+        font-size: 21px;
+        padding: 6px 11px;
+    }
+    .banner-content h1 {
+        font-size: 25px;
+        padding: 7px 10px;
+    }
+    .dental-agency-image img {
+        width: 48%;
+    }
+    .agency-header h3 {
+        font-size: 28px;
+        margin-bottom: 11px;
+    }
+    .agency-header p {
+        margin-bottom: 26px;
+    }
+    .services h4 {
+        font-size: 20px;
+        margin-bottom: 11px;
+    }
+    .services p {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .doctors-heading h1 {
+        font-size: 30px;
+    }
+    .doctors-heading h1 {
+        font-size: 30px;
+    }
+    .service-content ul li h4 {
+        font-size: 20px;
+    }
+    .service-content p {
+        font-size: 13px;
+    }
+    .service-content ul li h5 {
+        font-size: 15px;
+    }
+    .service-content {
+        padding: 11px 8px;
+    }
+    .pricing-head h4 {
+        font-size: 20px;
+    }
+    .pricing-head p {
+        font-size: 13px;
+    }
+    .pricing-head {
+        background: #f9f9f9;
+        margin-top: 12px;
+        padding: 14px 14px;
+    }
+    .pricing-amount h1 {
+        font-size: 32px;
+    }
+    .pricing-amount span {
+        font-size: 13px;
+    }
+    .pricing-amount {
+        padding: 17px 14px;
+    }
+    .pricing-description {
+        padding: 18px 20px;
+    }
+    .feature-left p {
+        font-size: 13px;
+         margin-bottom: 31px;
+    }   
+    .feature-left ul li p {
+         font-family: 'Roboto', sans-serif;
+         margin: 0;
+         font-size: 12px;
+    }
+    .feature-left ul li i {
+        font-size: 30px;
+        margin-right: 13px;
+    }
+    .feature-mid h5 {
+        font-size: 22px;
+        margin-bottom: 17px;
+    }
+    .feature-mid ul li p {
+        font-size: 13px;
+    }
+    .feature-mid ul li img {
+        width: 71%;
+        margin-right: 20px;
+    }
+    .feature-mid ul {
+        margin-bottom: 18px;
+    }
+    .feature-right h5 {
+        font-size: 22px;
+        margin-bottom: 16px;
+    }
+    .feature-right p {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    .feature-right form input[type= "submit"] {
+        height: 48px;
+        width: 29%;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    .follow-us ul li {
+        margin-left: 4px;
+        height: 30px;
+        width: 30px;
+    }
+    .follow-us ul li a i {
+        font-size: 15px;
+    }
+    .follow-us h1 {
+        font-size: 20px;
+    }
+    footer p {
+        font-size: 14px;
+    }
+}
+
+@media(min-width:0px) and (max-width:767px){
+    .logo img {
+        width: 46%;
+        margin-bottom: 37px;
+    }
+    .appoinment-position {
+        transform: skewx(
+    0deg
+    );
+    }
+    .appointment a i {
+        transform: skewX(
+    0deg
+    );
+    font-size: 17px;
+    margin-right: 10px;
+    }
+    .appointment a p {
+        transform: skewX(
+    0deg
+    );
+        margin: 0;
+        font-size: 17px;
+    }
+    .dental-agency-image {
+        display: none;
+    }
+    .service-content ul li h4 {
+        font-size: 17px;
+    }
+    .pricing-plan {
+        padding: 0px 81px;
+    }
+    .pricing {
+        margin-bottom: 30px;
+    }
+    .follow-us {
+        margin-top: 4px;
+    }
+    .owl-carousel .owl-item img {
+        width: 27%;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+}
+
+@media(min-width:0px) and (max-width:575px){
+    .banner-content {
+        text-align: center;
+        padding: 0px 50px;
+    }
+    .banner-content ul {
+        display: inline-block;
+    }
+    .banner-content ul li a {
+        margin: 0;
+        margin-bottom: 8px;
+    }
+    .dental-agency {
+        text-align: center;
+        padding: 12px 50px;
+    }
+    .services {
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .meet-doctors {
+        padding: 50px 60px;
+    }
+    .our-services {
+        padding: 0px 50px;
+    }
+    .service-content {
+        padding: 29px 40px;
+        margin-bottom: 20px;
+    }
+}
+@media(min-width:0px) and (max-width:425px){
+    .banner-content{
+        text-align: center;
+    }
+    .banner-content ul {
+        display: inline-block;
+    }
+    .banner-content ul li a {
+        margin: 0;
+        margin-bottom: 8px;
+    }
+    .meet-doctors {
+        background-color: #f9f9f9;
+        padding: 50px 40px;
+    }
+
+}
+
+@media(min-width:0px) and (max-width:375px){
+    .service-content {
+        padding: 29px 6px;
+        margin-bottom: 20px;
+    }
+}
+
+@media(min-width:0px) and (max-width:320px){
+    .our-services {
+         padding: 0px;
+    }
+    .pricing-plan {
+        padding: 0px;
+    }
+}
